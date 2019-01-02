@@ -1,0 +1,3 @@
+# #avrdude -c USBasp -p m16 -U flash:w:main.hex:i
+
+sudo avrdude -carduino -pm328p  -P/dev/ttyUSB0 -b57600 -U flash:w:main.hex:i
