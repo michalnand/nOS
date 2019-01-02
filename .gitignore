@@ -34,5 +34,6 @@
 *.app
 *.hex
 *.bin
+*.asm
 
 # Other
